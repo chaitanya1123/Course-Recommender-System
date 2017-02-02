@@ -1,0 +1,73 @@
+Student.ID,Fall Course1,Fall Course2,Fall Course3,Fall Course4
+Ishika,ECE 6100 Adv Comput Architechture,ECE 6122 Adv Prog Techniques,ECE 6550 Linear Systems and Controls,CS 6235 Real Time Systems
+Chaitanya,ECE 6122 Adv Prog Techniques,ECE 6250 Adv Digital Signal Proc,ECE 6550 Linear Systems and Controls,CS 6235 Real Time Systems
+Sampada,ECE 6122 Adv Prog Techniques,ECE 6250 Adv Digital Signal Proc,ECE 6550 Linear Systems and Controls,CS 6235 Real Time Systems
+Divya,ECE 6550 Linear Systems and Controls,ECE 6140 Digital Systems Test,ECE 6122 Adv Prog Techniques,ECE 6100 Adv Comput Architechture
+Lipi,ECE 6550 Linear Systems and Controls,ECE 6258 Digital Image Processing,ECE 6280 Cryptography & Security,ECE 6280 Cryptography & Security
+Neelam,ECE 6550 Linear Systems and Controls,ECE 6122 Adv Prog Techniques,ECE 6610 Wireless Networks,ECE 6607 Computer Comm Networks
+Pushyami,ECE 6258 Digital Image Processing,ECE 6250 Adv Digital Signal Proc,ECE 6550 Linear Systems and Controls,ECE 6122 Adv Prog Techniques
+HarshT,ECE 6551 Digital Control,ECE 6550 Linear Systems and Controls,ECE 6130 Adv VLSI Systems,ECE 6140 Digital Systems Test
+Avinash,ECE 6250 Adv Digital Signal Proc,ECE 6258 Digital Image Processing,ECE 6607 Computer Comm Networks,ECE 6122 Adv Prog Techniques
+Mithali,ECE 6122 Adv Prog Techniques,ECE 6100 Adv Comput Architechture,ECE 6258 Digital Image Processing,ECE 6250 Adv Digital Signal Proc
+Ram,ECE 6122 Adv Prog Techniques,ECE 6100 Adv Comput Architechture,ECE 6607 Computer Comm Networks,CS 6235 Real Time Systems
+HarshM,ECE 6122 Adv Prog Techniques,ECE 6100 Adv Comput Architechture,ECE 6607 Computer Comm Networks,CS 6235 Real Time Systems
+Manyu,ECE 6122 Adv Prog Techniques,ECE 6100 Adv Comput Architechture,ECE 6607 Computer Comm Networks,CS 6235 Real Time Systems
+Gamini,ECE 6100 Adv Comput Architechture,ECE 6122 Adv Prog Techniques,ECE 6133 Phys Design Automat-VLSI,ECE 6607 Computer Comm Networks
+Gauresh,ECE 6100 Adv Comput Architechture,ECE 6122 Adv Prog Techniques,ECE 6258 Digital Image Processing,CS 6235 Real Time Systems
+Madhuriya,ECE 6100 Adv Comput Architechture,ECE 6130 Adv VLSI Systems,ECE 6133 Phys Design Automat-VLSI,ECE 6140 Digital Systems Test
+Ashitha,ECE 6122 Adv Prog Techniques,ECE 6100 Adv Comput Architechture,ECE 6561 Computing for Controls,ECE 6550 Linear Systems and Controls
+Divya,ECE 6122 Adv Prog Techniques,ECE 6133 Phys Design Automat-VLSI,ECE 6130 Adv VLSI Systems,ECE 6140 Digital Systems Test
+Srikanth,ECE 8903 Special Problem,ECE 6607 Computer Comm Networks,ECE 6100 Adv Comput Architechture,ECE 6350 Applied Electromagnetics
+Monica,ECE 8903 Special Problem,ECE 6610 Wireless Networks,ECE 6100 Adv Comput Architechture,ECE 6607 Computer Comm Networks
+Jash,ECE 6100 Adv Comput Architechture,ECE 6122 Adv Prog Techniques,ECE 6610 Wireless Networks,ECE 6607 Computer Comm Networks
+Ashwin,ECE 6100 Adv Comput Architechture,ECE 6122 Adv Prog Techniques,ECE 6610 Wireless Networks,ECE 6607 Computer Comm Networks
+Aravindan,ECE 6100 Adv Comput Architechture,ECE 6122 Adv Prog Techniques,ECE 6610 Wireless Networks,ECE 6607 Computer Comm Networks
+Manasa,ECE 6258 Digital Image Processing,ECE 6250 Adv Digital Signal Proc,ECE 6550 Linear Systems and Controls,ECE 6122 Adv Prog Techniques
+AvinashN,ECE 6122 Adv Prog Techniques ,ECE 6250 Adv Digital Signal Proc,ECE 6258 Digital Image Processing,ECE 6607 Computer Comm Networks
+Pranjali,ECE 6100 Adv Comput Architechture,ECE 6250 Adv Digital Signal Proc,ECE 6258 Digital Image Processing,ECE 6280 Cryptography & Security
+Nishant,ECE 6122 Adv Prog Techniques,ECE 6258 Digital Image Processing ,ECE 6250 Adv Digital Signal Proc ,ECE 6607 Computer Comm Networks
+Anand,ECE 6140 Digital Systems Test,ECE 6130 Adv VLSI Systems,ECE 8903 Special Problem,ECE 6100 Adv Comput Architechture
+Vaibhav,ECE 6550 Linear Systems and Controls,ECE 6122 Adv Prog Techniques,ECE 6250 Adv Digital Signal Proc ,ECE 8903 Special Problem
+Aniket,ECE 6100 Adv Comput Architechture,ECE 6122 Adv Prog Techniques,ECE 6607 Computer Comm Networks,CS 6235 Real Time Systems
+Amit,ECE 6100 Adv Comput Architechture,ECE 6122 Adv Prog Techniques,ECE 6607 Computer Comm Networks,CS 6235 Real Time Systems
+Aditi,ECE 6250 Adv Digital Signal Proc ,ECE 6258 Digital Image Processing,ECE 6280 Cryptography & Security,ECE 6610 Wireless Networks
+Sonali,ECE 6250 Adv Digital Signal Proc,ECE 6258 Digital Image Processing,ECE 6100 Adv Comput Architechture,ECE 6280 Cryptography & Security
+Alok,ECE 6250 Adv Digital Signal Proc ,ECE 6550 Linear Systems and Controls,ECE 6280 Cryptography & Security,ECE 6258 Digital Image Processing
+Chaitanya,ECE 6122 Adv Prog Techniques,ECE 6250 Adv Digital Signal Proc,ECE 6550 Linear Systems and Controls,CS 6235 Real Time Systems
+Neelam,ECE 6550 Linear Systems and Controls,ECE 6122 Adv Prog Techniques,ECE 6610 Wireless Networks,ECE 6607 Computer Comm Networks
+Pushyami,ECE 6258 Digital Image Processing,ECE 6250 Adv Digital Signal Proc,ECE 6550 Linear Systems and Controls,ECE 6122 Adv Prog Techniques
+Mithali,ECE 6122 Adv Prog Techniques,ECE 6100 Adv Comput Architechture,ECE 6258 Digital Image Processing,ECE 6250 Adv Digital Signal Proc
+Ram,ECE 6122 Adv Prog Techniques,ECE 6100 Adv Comput Architechture,ECE 6607 Computer Comm Networks,CS 6235 Real Time Systems
+HarshM,ECE 6122 Adv Prog Techniques,ECE 6100 Adv Comput Architechture,ECE 6607 Computer Comm Networks,CS 6235 Real Time Systems
+Manyu,ECE 6122 Adv Prog Techniques,ECE 6100 Adv Comput Architechture,ECE 6607 Computer Comm Networks,CS 6235 Real Time Systems
+Gamini,ECE 6100 Adv Comput Architechture,ECE 6122 Adv Prog Techniques,ECE 6133 Phys Design Automat-VLSI,ECE 6607 Computer Comm Networks
+Ashitha,ECE 6122 Adv Prog Techniques,ECE 6100 Adv Comput Architechture,ECE 6561 Computing for Controls,ECE 6550 Linear Systems and Controls
+Srikanth,ECE 8903 Special Problem,ECE 6607 Computer Comm Networks,ECE 6100 Adv Comput Architechture,ECE 6350 Applied Electromagnetics
+Monica,ECE 8903 Special Problem,ECE 6610 Wireless Networks,ECE 6100 Adv Comput Architechture,ECE 6607 Computer Comm Networks
+Anand,ECE 6140 Digital Systems Test,ECE 6130 Adv VLSI Systems,ECE 8903 Special Problem,ECE 6100 Adv Comput Architechture
+Vaibhav,ECE 6550 Linear Systems and Controls,ECE 6122 Adv Prog Techniques,ECE 6250 Adv Digital Signal Proc ,ECE 8903 Special Problem
+Amit,ECE 6100 Adv Comput Architechture,ECE 6122 Adv Prog Techniques,ECE 6607 Computer Comm Networks,CS 6235 Real Time Systems
+Sonali,ECE 6250 Adv Digital Signal Proc,ECE 6258 Digital Image Processing,ECE 6100 Adv Comput Architechture,ECE 6280 Cryptography & Security
+Sonali,ECE 6100 Adv Comput Architechture,ECE 6122 Adv Prog Techniques,ECE 6250 Adv Digital Signal Proc,ECE 6279 Spatial Array Processing
+Manasa1,ECE 6122 Adv Prog Techniques,ECE 6258 Digital Image Processing,ECE 6250 Adv Digital Signal Proc,ECE 6550 Linear Systems and Controls
+Asswin,ECE 6100 Adv Comput Architechture,ECE 6101 Parallel & Dist Comp Arch,ECE 6102 Dependable Distribut Sys,ECE 6110 CAD – Communication Networks
+Neelam2,ECE 6100 Adv Comput Architechture,ECE 6101 Parallel & Dist Comp Arch,ECE 6122 Adv Prog Techniques,ECE 6607 Computer Comm Networks
+Chaitanya,ECE 6122 Adv Prog Techniques,ECE 6250 Adv Digital Signal Proc,ECE 6550 Linear Systems and Controls,CS 6235 Real-Time Systems
+Ishika,ECE 6122 Adv Prog Techniques,ECE 6100 Adv Comput Architechture,CS 6235 Real-Time Systems,ECE 6550 Linear Systems and Controls
+Samapda Upasani,ECE 6122 Adv Prog Techniques,ECE 6550 Linear Systems and Controls,ECE 6250 Adv Digital Signal Proc,CS 6235 Real-Time Systems
+Krishna Kumar Ramachandran,ECE 6122 Adv Prog Techniques,ECE 6100 Adv Comput Architechture,CS 6250 Computer Networks,ECE 6610 Wireless Networks
+Aniket Sugarcane,ECE 6122 Adv Prog Techniques,ECE 6100 Adv Comput Architechture,CS 6235 Real-Time Systems,CS 6250 Computer Networks
+Pushyami,ECE 6250 Adv Digital Signal Proc,ECE 6550 Linear Systems and Controls,ECE 6122 Adv Prog Techniques,ECE 6258 Digital Image Processing
+Avinash Nargund,ECE 6250 Adv Digital Signal Proc,ECE 6602 Digital Communication,ECE 6122 Adv Prog Techniques,ECE 6258 Digital Image Processing
+Varsha Parthasarathy,ECE 6273 Pattern Recognit-Speech,CS 6476 Computer Vision,ECE 6258 Digital Image Processing,CS 7637 Knowledge-Based AI
+Pranjali Borkar,ECE 6100 Adv Comput Architechture,ECE 6250 Adv Digital Signal Proc,ECE 6258 Digital Image Processing,ECE 6140 Digital Systems Test
+Divya,ECE 6130 Adv VLSI Systems,ECE 6122 Adv Prog Techniques,ECE 6550 Linear Systems and Controls,ECE 6140 Digital Systems Test
+Bharatheesha jagirdar,ECE 6130 Adv VLSI Systems,ECE 6273 Pattern Recognit-Speech,ECE 6133 Phys Design Automat-VLSI,ECE 6100 Adv Comput Architechture
+Neelam Chauhan,ECE 6100 Adv Comput Architechture,ECE 6122 Adv Prog Techniques,ECE 6610 Wireless Networks,CS 6250 Computer Networks
+Pradyumna B Suresha,ECE 6250 Adv Digital Signal Proc,ECE 6258 Digital Image Processing,ECE 6100 Adv Comput Architechture,ECE 8903 Special Problem
+Iyer Vidhya Subramanian,ECE 6122 Adv Prog Techniques,ECE 6550 Linear Systems and Controls,ECE 6273 Pattern Recognit-Speech,ECE 6258 Digital Image Processing
+Manasa Kadiri,ECE 6122 Adv Prog Techniques,ECE 6550 Linear Systems and Controls,ECE 6250 Adv Digital Signal Proc,ECE 6258 Digital Image Processing
+Vaibhav Dedhia,ECE 6550 Linear Systems and Controls,ECE 6250 Adv Digital Signal Proc,CS 6476 Computer Vision,ECE 8903 Special Problem
+Dhaneshwaran Jotheeswaran,ECE 6551 Digital Control,ECE 6550 Linear Systems and Controls,ECE 6250 Adv Digital Signal Proc,ECE 8903 Special Problem
+Mithali Shivkumar,ECE 6250 Adv Digital Signal Proc,ECE 6100 Adv Comput Architechture,ECE 6258 Digital Image Processing,ECE 8903 Special Problem
+ALOK RAO,ECE 6550 Linear Systems and Controls,ECE 6250 Adv Digital Signal Proc,ECE 6100 Adv Comput Architechture,ECE 8903 Special Problem

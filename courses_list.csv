@@ -1,0 +1,247 @@
+Full_Info,Field,Code,Name
+ECE 6100 Adv Comput Architechture,ECE,6100,Adv Comput Architechture
+ECE 6101 Parallel & Dist Comp Arch,ECE,6101,Parallel & Dist Comp Arch
+ECE 6102 Dependable Distribut Sys,ECE,6102,Dependable Distribut Sys
+ECE 6110 CAD – Communication Networks,ECE,6110,CAD – Communication Networks
+ECE 6120 Automata Theory ,ECE,6120,Automata Theory 
+ECE 6121 Combinational Strategies,ECE,6121,Combinational Strategies
+ECE 6122 Adv Prog Techniques,ECE,6122,Adv Prog Techniques
+ECE 6130 Adv VLSI Systems,ECE,6130,Adv VLSI Systems
+ECE 6132 Comp-aided VLSI Sys Dsgn,ECE,6132,Comp-aided VLSI Sys Dsgn
+ECE 6133 Phys Design Automat-VLSI,ECE,6133,Phys Design Automat-VLSI
+ECE 6140 Digital Systems Test,ECE,6140,Digital Systems Test
+ECE 6200 Biomedical Applic MEMS,ECE,6200,Biomedical Applic MEMS
+ECE 6229 Introduction to MEMS,ECE,6229,Introduction to MEMS
+ECE 6250 Adv Digital Signal Proc,ECE,6250,Adv Digital Signal Proc
+ECE 6254 Stat Machine Learning,ECE,6254,Stat Machine Learning
+ECE 6255 Digit Proc-Speech Signal,ECE,6255,Digit Proc-Speech Signal
+ECE 6258 Digital Image Processing,ECE,6258,Digital Image Processing
+ECE 6260 Data Compression & Model,ECE,6260,Data Compression & Model
+ECE 6271 Adaptive Filtering,ECE,6271,Adaptive Filtering
+ECE 6272 Fund-Radar Signal Proces,ECE,6272,Fund-Radar Signal Proces
+ECE 6273 Pattern Recognit-Speech,ECE,6273,Pattern Recognit-Speech
+ECE 6274 Stat Natural Lang Proc,ECE,6274,Stat Natural Lang Proc
+ECE 6276 DSP Hardware Sys Design,ECE,6276,DSP Hardware Sys Design
+ECE 6277 DSP Software Sys Design,ECE,6277,DSP Software Sys Design
+ECE 6279 Spatial Array Processing,ECE,6279,Spatial Array Processing
+ECE 6280 Cryptography & Security,ECE,6280,Cryptography & Security
+ECE 6282 Radar Imaging,ECE,6282,Radar Imaging
+ECE 6283 Harm Analysis Sig Proc,ECE,6283,Harm Analysis Sig Proc
+ECE 6320 Power Sys Ctrl & Operation,ECE,6320,Power Sys Ctrl & Operation
+ECE 6321 Power System Stability,ECE,6321,Power System Stability
+ECE 6322 Pwr Sys Plan & Reliability,ECE,6322,Pwr Sys Plan & Reliability
+ECE 6323 Power System Protection,ECE,6323,Power System Protection
+ECE 6330 Power Electronic Devices,ECE,6330,Power Electronic Devices
+ECE 6331 Power Electronic Circuits,ECE,6331,Power Electronic Circuits
+ECE 6332 Power Electronic CAD Lab,ECE,6332,Power Electronic CAD Lab
+ECE 6335 Electric Machinery Analy,ECE,6335,Electric Machinery Analy
+ECE 6336 Electric Machine Drives,ECE,6336,Electric Machine Drives
+ECE 6337 Electricity Markets,ECE,6337,Electricity Markets
+ECE 6350 Applied Electromagnetics,ECE,6350,Applied Electromagnetics
+ECE 6360 Microwave Design,ECE,6360,Microwave Design
+ECE 6361 Microwave Design Lab,ECE,6361,Microwave Design Lab
+ECE 6370 EM Radiation & Antennas ,ECE,6370,EM Radiation & Antennas 
+ECE 6380 Intro Computational EM,ECE,6380,Intro Computational EM
+ECE 6390 Satellite Comm&Navig Sys,ECE,6390,Satellite Comm&Navig Sys
+ECE 6412 Analog Integ Circuit Design ,ECE,6412,Analog Integ Circuit Design 
+ECE 6414 Analog Integ Sys Design ,ECE,6414,Analog Integ Sys Design 
+ECE 6416 Low Noise Elec Sys Design,ECE,6416,Low Noise Elec Sys Design
+ECE 6420 Wirelrss IC Design,ECE,6420,Wireless IC Design
+ECE 6422 Interface IC Design,ECE,6422,Interface IC Design
+ECE 6430 Digital MOS ICs,ECE,6430,Digital MOS ICs
+ECE 6435 Neuro Analog VLSI Ckts,ECE,6435,Neuro Analog VLSI Ckts
+ECE 6440 Frequency Synthesizers,ECE,6440,Frequency Synthesizers
+ECE 6442 Electronic Oscillators,ECE,6442,Electronic Oscillators
+ECE 6444 Si-based Hetero Dev & Ckt,ECE,6444,Si-based Hetero Dev & Ckt
+ECE 6445 Power IC Design,ECE,6445,Power IC Design
+ECE 6450 Microelectronics Tech,ECE,6450,Microelectronics Tech
+ECE 6451 Intro Microelec Theory,ECE,6451,Intro Microelec Theory
+ECE 6453 Theory Electronic Device ,ECE,6453,Theory Electronic Device 
+ECE 6455 Semiconductor Proc Ctrl,ECE,6455,Semiconductor Proc Ctrl
+ECE 6456 Solar Cells,ECE,6456,Solar Cells
+ECE 6458 Gigascale Integration,ECE,6458,Gigascale Integration
+ECE 6460 Microelectromech Devices,ECE,6460,Microelectromech Devices
+ECE 6461 Nanoelectronics,ECE,6461,Nanoelectronics
+ECE 6500 Fourier Tech&Signal Analy,ECE,6500,Fourier Tech&Signal Analy
+ECE 6501 Fourier Optic & Holography,ECE,6501,Fourier Optic & Holography
+ECE 6510 Electro Optics,ECE,6510,Electro Optics
+ECE 6515 Nanophotonics,ECE,6515,Nanophotonics
+ECE 6520 Integrated Optics,ECE,6520,Integrated Optics
+ECE 6521 Optical Fibers,ECE,6521,Optical Fibers
+ECE 6522 Nonlinear Optics,ECE,6522,Nonlinear Optics
+"ECE 6530 Mod, Diffract & Cryst Opt",ECE,6530,"Mod, Diffract & Cryst Opt"
+ECE 6540 Organic Optoelectronics,ECE,6540,Organic Optoelectronics
+ECE 6542 Optoelectronic Systems,ECE,6542,Optoelectronic Systems
+ECE 6543 Fiber Optic Networks,ECE,6543,Fiber Optic Networks
+ECE 6550 Linear Systems and Controls,ECE,6550,Linear Systems and Controls
+ECE 6551 Digital Control,ECE,6551,Digital Control
+ECE 6552 Nonlinear Systems,ECE,6552,Nonlinear Systems
+ECE 6553 Optimal Control,ECE,6553,Optimal Control
+ECE 6554 Adaptive Control,ECE,6554,Adaptive Control
+ECE 6555 Optimal Estimation,ECE,6555,Optimal Estimation
+ECE 6556 Intelligent Control,ECE,6556,Intelligent Control
+ECE 6557 Manufacturing Sys and Design,ECE,6557,Manufacturing Sys and Design
+ECE 6558 Stochastic Systems,ECE,6558,Stochastic Systems
+ECE 6559 Adv Linear Systems,ECE,6559,Adv Linear Systems
+ECE 6560 PDEs Image Proc & Vision,ECE,6560,PDEs Image Proc & Vision
+ECE 6561 Computing for Controls,ECE,6561,Computing for Controls
+ECE 6562 Control Robotic Systems,ECE,6562,Control Robotic Systems
+ECE 6563 Networked Control,ECE,6563,Networked Control
+ECE 6601 Random Processes,ECE,6601,Random Processes
+ECE 6602 Digital Communication,ECE,6602,Digital Communication
+ECE 6603 Adv Digital Communication,ECE,6603,Adv Digital Communication
+ECE 6604 Personal & Mobile Commun,ECE,6604,Personal & Mobile Commun
+ECE 6605 Information Theory,ECE,6605,Information Theory
+ECE 6606 Coding Theory and Appl,ECE,6606,Coding Theory and Appl
+ECE 6607 Computer Comm Networks,ECE,6607,Computer Comm Networks
+ECE 6608 Performance Analysis,ECE,6608,Performance Analysis
+ECE 6610 Wireless Networks,ECE,6610,Wireless Networks
+ECE 6611 Broadband Networking,ECE,6611,Broadband Networking
+ECE 6612 Comp Network Security,ECE,6612,Comp Network Security
+ECE 6613 Broadband Access Networks,ECE,6613,Broadband Access Networks
+ECE 6614 Multimedia Communication,ECE,6614,Multimedia Communication
+ECE 6615 Sensor Networks,ECE,6615,Sensor Networks
+ECE 6616 Cognitive Radio Networks,ECE,6616,Cognitive Radio Networks
+ECE 6730 Model&Sim:Found&Implemen,ECE,6730,Model&Sim:Found&Implemen
+ECE 6744 Topics in Engr Practice,ECE,6744,Topics in Engr Practice
+ECE 6759 Plasma Processing,ECE,6759,Plasma Processing
+ECE 6771 Optoelectronics,ECE,6771,Optoelectronics
+ECE 6776 Microelec Sys Packaging,ECE,6776,Microelec Sys Packaging
+ECE 6779 Therm Pkg-Micro/Nano Sys,ECE,6779,Therm Pkg-Micro/Nano Sys
+ECE 6780 Medical Image Processing,ECE,6780,Medical Image Processing
+ECE 6786 Medical Imaging Systems,ECE,6786,Medical Imaging Systems
+ECE 6787 Quantitative Electrophys,ECE,6787,Quantitative Electrophys
+ECE 6790 Info Proc Model Neur Sys,ECE,6790,Info Proc Model Neur Sys
+ECE 6792 Manufacturing Seminar,ECE,6792,Manufacturing Seminar
+ECE 7102 RISC Architectures,ECE,7102,RISC Architectures
+ECE 7103 Advanced Memory Systems,ECE,7103,Advanced Memory Systems
+ECE 7131 Asynch & Self Timed Sys,ECE,7131,Asynch & Self Timed Sys
+ECE 7141 Adv Digital Sys Test,ECE,7141,Adv Digital Sys Test
+ECE 7142 Fault Tolerant Computing,ECE,7142,Fault Tolerant Computing
+ECE 7251 Signal Detection & Estimation,ECE,7251,Signal Detection & Estimation
+ECE 7252 Adv Signal Proc Theory ,ECE,7252,Adv Signal Proc Theory 
+ECE 7370 Antennas/Waves in Matter,ECE,7370,Antennas/Waves in Matter
+ECE 7380 Computational EM,ECE,7380,Computational EM
+ECE 7611 Adv Communication Theory,ECE,7611,Adv Communication Theory
+ECE 7785 Intro Robotics Research,ECE,7785,Intro Robotics Research
+ECE  8823 Convex Optimization,ECE ,8823,Convex Optimization
+ECE 8903 Special Problem,ECE,8903,Special Problem
+CS 6010 Principles of Design,CS,6010,Principles of Design
+CS 6035 Intro To Info Security,CS,6035,Intro To Info Security
+CS 6150 Computing For Good,CS,6150,Computing For Good
+CS 6210 Adv Operating Systems,CS,6210,Adv Operating Systems
+CS 6230 High Perf Parallel Comp,CS,6230,High Perf Parallel Comp
+CS 6235 Real-Time Systems,CS,6235,Real-Time Systems
+CS 6238 Secure Computer Systems,CS,6238,Secure Computer Systems
+CS 6241 Compiler Design,CS,6241,Compiler Design
+CS 6245 Parallelizing Compilers,CS,6245,Parallelizing Compilers
+CS 6246 Object-Oriented Systems,CS,6246,Object-Oriented Systems
+CS 6250 Computer Networks,CS,6250,Computer Networks
+CS 6255 Network Management,CS,6255,Network Management
+CS 6260 Applied Cryptography,CS,6260,Applied Cryptography
+CS 6262 Network Security,CS,6262,Network Security
+CS 6265 Information Security Lab,CS,6265,Information Security Lab
+CS 6266 Info Security Practicum,CS,6266,Info Security Practicum
+CS 6269 Formal Info Assur Model,CS,6269,Formal Info Assur Model
+CS 6280 Eval Communication Nets,CS,6280,Eval Communication Nets
+CS 6290 High Perform Comput Arch,CS,6290,High Perform Comput Arch
+CS 6300 Software Dev Process,CS,6300,Software Dev Process
+CS 6310 Software Arch & Design,CS,6310,Software Arch & Design
+CS 6320 Requirements Analysis,CS,6320,Requirements Analysis
+CS 6330 Software Generation&Test,CS,6330,Software Generation&Test
+CS 6340 Software Analysis & Test,CS,6340,Software Analysis & Test
+CS 6365 Intro Enterprise Comput,CS,6365,Intro Enterprise Comput
+CS 6390 Programming Languages,CS,6390,Programming Languages
+CS 6400 DB Sys Concepts& Design,CS,6400,DB Sys Concepts& Design
+CS 6402 Databases and Infosec,CS,6402,Databases and Infosec
+CS 6411 O-O Database Model & Sys,CS,6411,O-O Database Model & Sys
+"CS 6421 Tempor,Spatial&Active DB",CS,6421,"Tempor,Spatial&Active DB"
+CS 6422 Database System Implemnt,CS,6422,Database System Implemnt
+CS 6430 Parallel&Distributed DB,CS,6430,Parallel&Distributed DB
+CS 6440 Intro Health Informatics,CS,6440,Intro Health Informatics
+CS 6451 Human-Centered Computing,CS,6451,Human-Centered Computing
+CS 6452 Prototyping Interact Sys,CS,6452,Prototyping Interact Sys
+CS 6455 User Interface Dsgn&Eval,CS,6455,User Interface Dsgn&Eval
+CS 6456 Principles-UI Software,CS,6456,Principles-UI Software
+CS 6457 Video Game Design,CS,6457,Video Game Design
+CS 6460 Educ Tech-Foundations,CS,6460,Educ Tech-Foundations
+CS 6465 Computational Journalism,CS,6465,Computational Journalism
+CS 6470 Online Communities,CS,6470,Online Communities
+CS 6474 Social Computing,CS,6474,Social Computing
+CS 6475 Comp. Photography,CS,6475,Comp. Photography
+CS 6476 Computer Vision,CS,6476,Computer Vision
+CS 6480 Comp Visualiz Techniques,CS,6480,Comp Visualiz Techniques
+CS 6485 Visual Meth-Sci & Engr,CS,6485,Visual Meth-Sci & Engr
+CS 6491 Computer Graphics,CS,6491,Computer Graphics
+CS 6505 Computability&Algorithms,CS,6505,Computability&Algorithms
+CS 6520 Computational Complexity,CS,6520,Computational Complexity
+CS 6550 Design& Analy-Algorithms,CS,6550,Design& Analy-Algorithms
+CS 6601 Artificial Intelligence,CS,6601,Artificial Intelligence
+CS 6670 Distrib Cntrl Algorithms,CS,6670,Distrib Cntrl Algorithms
+CS 6675 Advance Internet Comput,CS,6675,Advance Internet Comput
+CS 6705 Applications of AI,CS,6705,Applications of AI
+CS 6725 Info Security Policies,CS,6725,Info Security Policies
+CS 6726 Privacy Tech Policy Law,CS,6726,Privacy Tech Policy Law
+CS 6750 Human-Computer Interact,CS,6750,Human-Computer Interact
+CS 6753 HCI Prof Prep & Practice,CS,6753,HCI Prof Prep & Practice
+CS 6754 Engr Database Mgt System,CS,6754,Engr Database Mgt System
+CS 6763 Design of Environments,CS,6763,Design of Environments
+CS 6764 Geometric Modeling,CS,6764,Geometric Modeling
+CS 6770 Mixed Reality Design,CS,6770,Mixed Reality Design
+CS 6780 Medical Image Processing,CS,6780,Medical Image Processing
+CS 6795 Intro-Cognitive Science,CS,6795,Intro-Cognitive Science
+CS 7110 Parallel Computer Arch,CS,7110,Parallel Computer Arch
+CS 7210 Distributed Computing,CS,7210,Distributed Computing
+"CS 7230 Software Dsgn, Impl & Eval",CS,7230,"Software Dsgn, Impl & Eval"
+CS 7250 Broadband Networking Sys,CS,7250,Broadband Networking Sys
+CS 7260 Internet Arch & Protocols,CS,7260,Internet Arch & Protocols
+CS 7270 Networked App & Services,CS,7270,Networked App & Services
+CS 7280 Network Science,CS,7280,Network Science
+CS 7290 Adv Microarchitechture,CS,7290,Adv Microarchitechture
+CS 7292 Reliable Secure Comparch,CS,7292,Reliable Secure Comparch
+CS 7450 Inform Visualization,CS,7450,Inform Visualization
+CS 7455 Issues/Human-Center Comp,CS,7455,Issues/Human-Center Comp
+CS 7460 Collaborative Computing,CS,7460,Collaborative Computing
+CS 7465 Edu Tech Design and Eval,CS,7465,Edu Tech Design and Eval
+CS 7467 Comp COllaborative Learning,CS,7467,Comp COllaborative Learning
+CS 7470 Ubiquitous Computing,CS,7470,Ubiquitous Computing
+CS 7476 Advanced Computer Vision,CS,7476,Advanced Computer Vision
+CS 7490 Adv Image Synthesis,CS,7490,Adv Image Synthesis
+CS 7491 3D Complexity,CS,7491,3D Complexity
+CS 7492 Simulation of Biology,CS,7492,Simulation of Biology
+CS 7495 Computer Vision,CS,7495,Computer Vision
+CS 7496 Computer Animation,CS,7496,Computer Animation
+CS 7497 Virtual Environments,CS,7497,Virtual Environments
+CS 7499 3D Reconstruction,CS,7499,3D Reconstruction
+CS 7510 Graph Algorithm,CS,7510,Graph Algorithm
+CS 7520 Approximation Algorithms,CS,7520,Approximation Algorithms
+CS 7525 Algorithmic Game Theory,CS,7525,Algorithmic Game Theory
+CS 7530 Randomized Algorithms,CS,7530,Randomized Algorithms
+CS 7535 Markov Chain Monte Carlo,CS,7535,Markov Chain Monte Carlo
+CS 7540 Spectral Algorithms,CS,7540,Spectral Algorithms
+CS 7545 Machine Learning Theory,CS,7545,Machine Learning Theory
+CS 7560 Theory of Cryptography,CS,7560,Theory of Cryptography
+CS 7610 Modeling and Design,CS,7610,Modeling and Design
+CS 7611 AI Problem Solving,CS,7611,AI Problem Solving
+CS 7612 AI Planning,CS,7612,AI Planning
+CS 7613 Knowledge Systems Engr,CS,7613,Knowledge Systems Engr
+CS 7615 Knowledge Agents,CS,7615,Knowledge Agents
+CS 7616 Pattern Recognition,CS,7616,Pattern Recognition
+CS 7620 Case-Based Reasoning,CS,7620,Case-Based Reasoning
+CS 7630 Autonomous Robotics,CS,7630,Autonomous Robotics
+CS 7631 Multi-Robot Systems,CS,7631,Multi-Robot Systems
+CS 7632 Game AI,CS,7632,Game AI
+CS 7633 Human-Robot Interaction,CS,7633,Human-Robot Interaction
+CS 7634 AI Storytell In Vir Wrld,CS,7634,AI Storytell In Vir Wrld
+CS 7636 Computational Perception,CS,7636,Computational Perception
+CS 7637 Knowledge-Based AI,CS,7637,Knowledge-Based AI
+CS 7640 Learning in Auton Agents,CS,7640,Learning in Auton Agents
+CS 7641 Machine Learning,CS,7641,Machine Learning
+CS 7645 Num Machine Learning,CS,7645,Num Machine Learning
+CS 7646 Mach Learn For Trading,CS,7646,Mach Learn For Trading
+CS 7649 Robot Intelli: Planning,CS,7649,Robot Intelli: Planning
+CS 7650 Natural Language,CS,7650,Natural Language
+CS 7695 Phil of Cognition,CS,7695,Phil of Cognition
+CS 7697 Cognitive Model Sci&Tech,CS,7697,Cognitive Model Sci&Tech
+CS 7785 Intro Robotics Research,CS,7785,Intro Robotics Research
+CS 7790 Cognitive Modeling.,CS,7790,Cognitive Modeling.
